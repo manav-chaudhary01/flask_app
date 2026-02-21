@@ -1,6 +1,0 @@
-flask
-flask-smorest
-python-dotenv
-marshmallow
-flask-sqlalchemy
-gunicorn
